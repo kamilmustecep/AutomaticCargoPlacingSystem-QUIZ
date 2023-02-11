@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\AutomaticCargoPlacingSystem-QUIZ\Warpiris-CSharpQUIZ\Warpiris-CSharpQUIZ\bin\Debug\Warpiris-CSharpQUIZ.exe.config
+C:\Users\Asus\Documents\AutomaticCargoPlacingSystem-QUIZ\Warpiris-CSharpQUIZ\Warpiris-CSharpQUIZ\bin\Debug\Warpiris-CSharpQUIZ.exe
+C:\Users\Asus\Documents\AutomaticCargoPlacingSystem-QUIZ\Warpiris-CSharpQUIZ\Warpiris-CSharpQUIZ\bin\Debug\Warpiris-CSharpQUIZ.pdb
+C:\Users\Asus\Documents\AutomaticCargoPlacingSystem-QUIZ\Warpiris-CSharpQUIZ\Warpiris-CSharpQUIZ\obj\Debug\Warpiris-CSharpQUIZ.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\AutomaticCargoPlacingSystem-QUIZ\Warpiris-CSharpQUIZ\Warpiris-CSharpQUIZ\obj\Debug\Warpiris-CSharpQUIZ.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\AutomaticCargoPlacingSystem-QUIZ\Warpiris-CSharpQUIZ\Warpiris-CSharpQUIZ\obj\Debug\Warpiris-CSharpQUIZ.exe
+C:\Users\Asus\Documents\AutomaticCargoPlacingSystem-QUIZ\Warpiris-CSharpQUIZ\Warpiris-CSharpQUIZ\obj\Debug\Warpiris-CSharpQUIZ.pdb

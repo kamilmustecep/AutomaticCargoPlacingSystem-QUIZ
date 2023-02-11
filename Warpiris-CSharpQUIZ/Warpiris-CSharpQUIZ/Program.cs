@@ -19,7 +19,7 @@ namespace Warpiris_CSharpQUIZ
             gelenVagonlar[0] = "10808313931813319430761116496";
             gelenVagonlar[1] = "93876532983858416774152932536";
 
-            string depoDurum = "9#54134427902231984111412732221";
+            string depoDurum = "0#54134427902231984111412732221";
             #endregion
 
             string result = AntrepoYerlestir(depoDurum, gelenVagonlar);
