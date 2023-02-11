@@ -107,6 +107,11 @@ namespace Warpiris_CSharpQUIZ
                 {
                     return m;
                 }
+                //Önünden geçtiği tank boşaltılır
+                else
+                {
+                    stockTanks[m] = 0;
+                }
             }
             return stockTanks.Length - 1;
         }
